@@ -11,4 +11,4 @@ Si prefieres no leer la documentación te lo resumo.
 4. Clik en Style Sheet, y selecciona el archivo descargado `libreCadTheme.qss`
 5. Presiona en guardar.
 
-Y listo ahora puedes descanzar tu vista miendras diseñas tus planos 😊
+Y listo ahora puedes descanzar tu vista 🫣 mientras diseñas tus planos 😊
